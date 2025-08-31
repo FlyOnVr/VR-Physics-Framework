@@ -23,3 +23,10 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 2. Physics Compatible Climbing
 3. Jumping
 4. More!
+
+
+# Requirements
+
+1. Unity 2022+
+2.XR Interaction Toolkit 3.0.8+
+3.URP
