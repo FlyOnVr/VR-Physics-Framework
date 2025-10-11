@@ -13,16 +13,20 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 7. Physics Based Turning
 8. Classic Hands
 9. 6+ Interaction Helpers
-10. UnityEngine Scripts
-11. 2+ Extensions
+ 10. UnityEngine Scripts
+ 11. 2+ Extensions
+ 12. Jumping
+ 13. Grab Posing
+ 14. Physics Posing
 
 
 # Comming Soon
 
 1. Physics Based Climbing
 2. Physics Compatible Climbing
-3. Jumping
-4. More!
+3. Way More!
+4. Multiplayer Pun Integration
+5. Full Body
 
 
 # Requirements
