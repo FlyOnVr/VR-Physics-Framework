@@ -17,11 +17,12 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 11. UnityEngine Scripts
 12. 2+ Extensions
 13. Jumping
-14. Grab Posing
-15. Two Hand Posing Support
-16. Dynamic Posing
-17. Full Body IK
-18. Auto Set Full Body IK
+14. Guns (AK-47, pistol)
+15. Grab Posing
+16. Two Hand Posing Support
+17. Dynamic Posing
+18. Full Body IK
+19. Auto Set Full Body IK
 
 
 # Comming Soon
