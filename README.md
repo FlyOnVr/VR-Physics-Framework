@@ -1,5 +1,5 @@
 # VR Physics Framework
-VRPF is a package that uses physics to give the best interaction possible. Remember that this is a FREE BETA package so dont expect it to be the best. it'll feel more and more like the marrow engine over time.
+VRPF is a package that uses physics to give the best interaction possible. Remember that this is a FREE BETA package so dont expect it to be the best. it'll feel more and more like the marrow framework over time.
 
 
 # VRPF Features
@@ -12,12 +12,16 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 6. Physics Based Walking
 7. Physics Based Turning
 8. Classic Hands
-9. 6+ Interaction Helpers
- 10. UnityEngine Scripts
- 11. 2+ Extensions
- 12. Jumping
- 13. Grab Posing
- 14. Dynamic Posing
+9. Custom Hands
+10. 6+ Interaction Helpers
+11. UnityEngine Scripts
+12. 2+ Extensions
+13. Jumping
+14. Grab Posing
+15. Two Hand Posing Support
+16. Dynamic Posing
+17. Full Body IK
+18. Auto Set Full Body IK
 
 
 # Comming Soon
@@ -25,8 +29,7 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 1. Physics Based Climbing
 2. Physics Compatible Climbing
 3. Multiplayer Pun Integration
-4. Full Body
-5. Way More!
+4. Way More!
 
 
 # Requirements
@@ -34,3 +37,4 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 1. Unity 2022+
 2.XR Interaction Toolkit 2.5.4
 3.URP
+4. Animation Rigging
