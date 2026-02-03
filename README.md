@@ -36,7 +36,7 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 
 # Requirements
 
-1. Unity 2022+
+1. Unity 6.0.58f1+
 2. XR Interaction Toolkit 2.5.4
 3. URP
-4. Animation Rigging
+4. Animation Rigging 1.3.1
