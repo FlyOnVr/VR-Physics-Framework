@@ -19,10 +19,11 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 13. Jumping
 14. Guns (AK-47, pistol)
 15. Grab Posing
-16. Two Hand Posing Support
-17. Dynamic Posing
-18. Full Body IK
-19. Auto Set Full Body IK
+16. Pose Smoothening
+17. Two Hand Posing Support
+18. Dynamic Posing
+19. Full Body IK
+20. Auto Set Full Body IK
 
 
 # Comming Soon
