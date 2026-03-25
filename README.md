@@ -24,14 +24,14 @@ VRPF is a package that uses physics to give the best interaction possible. Remem
 18. Dynamic Posing
 19. Full Body IK
 20. Auto Set Full Body IK
+21. Multiplayer Pun Integration
 
 
 # Comming Soon
 
 1. Physics Based Climbing
 2. Physics Compatible Climbing
-3. Multiplayer Pun Integration
-4. Way More!
+3. Way More!
 
 
 # Requirements
