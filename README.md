@@ -1,9 +1,8 @@
 # VR Physics Framework
 VR-Physics-Framework is a package that uses physics to give the best interaction possible. Remember that this is a FREE BETA package so dont expect it to be the best. it'll feel more and more like the marrow framework over time.
 
-## ONLY WORKS FOR VERSIONS 1.0.0 AND HIGHER
-
 # How to Install
+## ONLY WORKS FOR VERSIONS 1.0.0 AND HIGHER
 
 Install the latest version of VR-Physics-Framework.
 
@@ -18,7 +17,7 @@ https://github.com/user-attachments/assets/dd30fe1b-3937-46dc-95fa-9a5fa01da969
 
 # Requirements
 
-1. Unity 6.0.53f1+
+1. Unity 6000.0.53f1+
 2. XR Interaction Toolkit 2.5.4
 3. URP
 4. Animation Rigging 1.3.1
@@ -47,9 +46,10 @@ https://github.com/user-attachments/assets/dd30fe1b-3937-46dc-95fa-9a5fa01da969
 16. Pose Smoothening
 17. Two Hand Posing Support
 18. Dynamic Posing
-19. Full Body IK
-20. Auto Set Full Body IK
-21. Multiplayer Pun Integration
+19. Mirror Posing
+20. Full Body IK
+21. Auto Set Full Body IK
+22. Multiplayer Pun Integration
 
 
 # Comming Soon
